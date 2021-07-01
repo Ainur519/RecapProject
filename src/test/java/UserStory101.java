@@ -3,5 +3,6 @@ public class UserStory101 {
         System.out.println("Working on US 101 added some code");
         System.out.println("Added more coding");
         System.out.println("Still working on some code");
+        System.out.println("About to finish work");
     }
 }
